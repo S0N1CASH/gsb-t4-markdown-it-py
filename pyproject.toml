@@ -38,7 +38,7 @@ compare = [
     "markdown~=3.4",
     "mistletoe~=1.0",
     "mistune~=3.0",
-    "panflute~=2.3",
+    "panflute>=2.3,<4.0",
     "markdown-it-pyrs",
 ]
 linkify = ["linkify-it-py>=1,<3"]
